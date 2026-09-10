@@ -166,7 +166,7 @@ Planned improvements include:
 
 # 👨‍💻 Author
 
-**Pranshu Chauhan**
+**Janhvi Gupta**
 
 Full Stack Developer
 MERN Stack | AI Projects | Web Applications
