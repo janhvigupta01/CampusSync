@@ -166,6 +166,7 @@ Planned improvements include:
 
 # 👨‍💻 Author
 
+**Pranshu Chauhan**
 **Janhvi Gupta**
 
 Full Stack Developer
